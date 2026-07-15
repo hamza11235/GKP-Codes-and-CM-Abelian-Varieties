@@ -35,13 +35,13 @@ All nonuniform values below use the `polarization_scaled_metric` convention.
 Values from different polarization types should not be ranked against one
 another.
 
-| dimension | type | exact $\ell^2$ | shortest classes/lifts | claim |
+| dimension | type | exact ℓ² | shortest classes/lifts | claim |
 |---:|---:|---:|---:|---|
-| 2 | `(1,3)` | $\sqrt{2/3}$ | `8 / 24` | exact bounded CM record |
-| 2 | `(1,5)` | $\sqrt{2/5}$ | `24 / 24` | exact reconstructed CM record |
-| 3 | `(1,1,2)` | $2/\sqrt{3}$ | `3 / 36` | exact reconstructed CM record |
-| 3 | `(1,1,3)` | $2/\sqrt{3}$ | `8 / 72` | exact bounded CM record |
-| 3 | `(1,2,2)` | $1$ | `15 / 60` | exact bounded CM record |
+| 2 | `(1,3)` | `sqrt(2/3)` | `8 / 24` | exact bounded CM record |
+| 2 | `(1,5)` | `sqrt(2/5)` | `24 / 24` | exact reconstructed CM record |
+| 3 | `(1,1,2)` | `2/sqrt(3)` | `3 / 36` | exact reconstructed CM record |
+| 3 | `(1,1,3)` | `2/sqrt(3)` | `8 / 72` | exact bounded CM record |
+| 3 | `(1,2,2)` | `1` | `15 / 60` | exact bounded CM record |
 
 The type-`(1,5)` surface is isogenous to `E_(i sqrt(10))^2` and has a scaled
 `D4` Euclidean dual. The type-`(1,1,2)` threefold is isogenous to
