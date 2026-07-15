@@ -90,6 +90,18 @@ from .moduli_search import (
     refine_compatible_moduli_simplex,
     scan_compatible_moduli,
 )
+from .optimizer_harness import (
+    CompatibilityDiagnostics,
+    CoordinateOutOfBounds,
+    EvaluationBudgetExceeded,
+    EvaluationMode,
+    HarnessSummary,
+    ObjectiveEvaluation,
+    ObjectiveTraceEntry,
+    OptimizationRunConfig,
+    OptimizerHarness,
+    type15_compatible_metric_family,
+)
 from .polarization import Polarization, PolarizationError, smith_invariant_factors
 from .ppav import (
     PPAVValidationError,
@@ -185,6 +197,15 @@ __all__ = [
     "CompatibleMetricFamily",
     "CompatibleModuliSearch",
     "ModuliSample",
+    "CompatibilityDiagnostics",
+    "CoordinateOutOfBounds",
+    "EvaluationBudgetExceeded",
+    "EvaluationMode",
+    "HarnessSummary",
+    "ObjectiveEvaluation",
+    "ObjectiveTraceEntry",
+    "OptimizationRunConfig",
+    "OptimizerHarness",
     "NormalizationMetadata",
     "GAUSSIAN_COMPLEX_STRUCTURE",
     "GaussianHermitianForm",
@@ -312,4 +333,5 @@ __all__ = [
     "reconstruct_type112_metric_core",
     "gaussian_type_12_family",
     "eisenstein_type_13_family",
+    "type15_compatible_metric_family",
 ]

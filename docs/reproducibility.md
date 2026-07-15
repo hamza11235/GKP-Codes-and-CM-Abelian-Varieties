@@ -43,6 +43,18 @@ type-`(1,1,2)` certificates.
 6. `06_type15_exact.ipynb`: exact type-`(1,5)` reconstruction.
 7. `07_g3_cm_survey.ipynb`: ternary-Hermitian survey and controls.
 8. `08_type112_exact.ipynb`: exact type-`(1,1,2)` reconstruction.
+9. `09_optimizer_harness.ipynb`: common CM-blind type-`(1,5)` objective,
+   diagnostics, batching, high-precision verification, and checkpoint resume.
+
+## Adversarial-search harness
+
+```bash
+python scripts/reproduce_optimizer_harness.py
+```
+
+This validates the common six-coordinate objective that future Sobol, CMA-ES,
+differential-evolution, SHGO, and Bayesian searches will share. See
+[optimizer_harness.md](optimizer_harness.md).
 
 The notebooks contain stored outputs but should also run from top to bottom from
 the repository root. Their import preambles add the local `src` directory.

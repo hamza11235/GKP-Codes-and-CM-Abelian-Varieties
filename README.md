@@ -97,6 +97,10 @@ docs/              Methods, conventions, and exact certificates
 data/              Machine-readable result ledgers
 ```
 
+The common CM-blind optimization interface for the next adversarial-search
+stage is documented in [docs/optimizer_harness.md](docs/optimizer_harness.md)
+and exercised in `notebooks/09_optimizer_harness.ipynb`.
+
 ## Numerical methodology
 
 For a polarization matrix $A$ and compatible Gram matrix $G$, the code computes
