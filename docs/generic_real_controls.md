@@ -7,25 +7,25 @@ leave their rational isogeny classes.
 
 For the fixed alternating form `A`, use symplectic transvections
 
-\[
+$$
 S=I+t v v^T A,
 \qquad S^TAS=A.
-\]
+$$
 
 Here every parameter has the form
 
-\[
+$$
 t=q\pi,
 \qquad q\in\mathbb Q\setminus\{0\}.
-\]
+$$
 
 The irrational factor prevents `S` from being rational, unlike the exact
 experiment in notebook 08. Dense rational coefficients approximate continuous
 real sampling while remaining reproducible. The resulting metric is
 
-\[
+$$
 G'=S^TGS.
-\]
+$$
 
 CM points form a measure-zero subset of the moduli space, so generic real
 samples are overwhelmingly expected to be non-CM. We do not claim a formal

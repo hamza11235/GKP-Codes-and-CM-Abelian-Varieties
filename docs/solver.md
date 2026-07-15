@@ -15,20 +15,20 @@ in the returned normalization metadata; see `docs/conventions.md`.
 
 The calculation is
 
-\[
+$$
 \ell^2=
 \min_{0\ne[c]\in A^{-T}\mathbb Z^m/\mathbb Z^m}
 \min_{n\in\mathbb Z^m}(c+n)^TG(c+n).
-\]
+$$
 
 ## Exact metrics
 
 When every entry of `G` is integral or rational, distances are evaluated using
 `fractions.Fraction`. The solver computes an exact decomposition
 
-\[
+$$
 G=LDL^T
-\]
+$$
 
 and recursively enumerates every integer coordinate whose exact partial
 quadratic contribution does not exceed the best complete candidate. No

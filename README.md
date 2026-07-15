@@ -3,9 +3,9 @@
 This repository provides certified computational tools and reproducible results
 for the relative systole
 
-\[
+$$
 \ell_{X,L}=\min_{0\ne x\in K(L)} d_X(0,x)
-\]
+$$
 
 of polarized complex abelian varieties, interpreted as the shortest
 syndrome-invisible nontrivial logical displacement of a lattice GKP code.
@@ -35,13 +35,13 @@ All nonuniform values below use the `polarization_scaled_metric` convention.
 Values from different polarization types should not be ranked against one
 another.
 
-| dimension | type | exact `ell^2` | shortest classes/lifts | claim |
+| dimension | type | exact $\ell^2$ | shortest classes/lifts | claim |
 |---:|---:|---:|---:|---|
-| 2 | `(1,3)` | `sqrt(2/3)` | `8 / 24` | exact bounded CM record |
-| 2 | `(1,5)` | `sqrt(2/5)` | `24 / 24` | exact reconstructed CM record |
-| 3 | `(1,1,2)` | `2/sqrt(3)` | `3 / 36` | exact reconstructed CM record |
-| 3 | `(1,1,3)` | `2/sqrt(3)` | `8 / 72` | exact bounded CM record |
-| 3 | `(1,2,2)` | `1` | `15 / 60` | exact bounded CM record |
+| 2 | `(1,3)` | $\sqrt{2/3}$ | `8 / 24` | exact bounded CM record |
+| 2 | `(1,5)` | $\sqrt{2/5}$ | `24 / 24` | exact reconstructed CM record |
+| 3 | `(1,1,2)` | $2/\sqrt{3}$ | `3 / 36` | exact reconstructed CM record |
+| 3 | `(1,1,3)` | $2/\sqrt{3}$ | `8 / 72` | exact bounded CM record |
+| 3 | `(1,2,2)` | $1$ | `15 / 60` | exact bounded CM record |
 
 The type-`(1,5)` surface is isogenous to `E_(i sqrt(10))^2` and has a scaled
 `D4` Euclidean dual. The type-`(1,1,2)` threefold is isogenous to
@@ -50,10 +50,10 @@ The type-`(1,5)` surface is isogenous to `E_(i sqrt(10))^2` and has a scaled
 For the fixed-principal uniform type `(2,2,2,2)`, the exact `E8` PPAV benchmark
 has
 
-\[
-\lambda_1^2=2,\qquad \ell^2=\frac12,
-\qquad N_{\rm class}=120,\quad N_{\rm lift}=240.
-\]
+$$
+\lambda_1^2=2,\qquad \ell^2=\frac{1}{2},
+\qquad N_{\mathrm{class}}=120,\quad N_{\mathrm{lift}}=240.
+$$
 
 Via the eight-dimensional sphere-packing theorem, this is a global optimum for
 that uniform fixed-principal problem.
@@ -99,13 +99,13 @@ data/              Machine-readable result ledgers
 
 ## Numerical methodology
 
-For a polarization matrix `A` and compatible Gram matrix `G`, the code computes
+For a polarization matrix $A$ and compatible Gram matrix $G$, the code computes
 
-\[
+$$
 \ell^2=
-\min_{0\ne[c]\in A^{-T}\mathbf Z^{2g}/\mathbf Z^{2g}}
-\min_{n\in\mathbf Z^{2g}}(c+n)^T G(c+n).
-\]
+\min_{0\ne[c]\in A^{-T}\mathbb{Z}^{2g}/\mathbb{Z}^{2g}}
+\min_{n\in\mathbb{Z}^{2g}}(c+n)^T G(c+n).
+$$
 
 Rational metrics use exact `Fraction` arithmetic and exact `LDL^T`
 branch-and-bound. Floating metrics use Cholesky branch-and-bound and are marked

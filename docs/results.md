@@ -55,16 +55,16 @@ A full six-dimensional compatible-metric search found a numerical improvement
 near `0.6324555`. Equal-distance equations for its 24 active lifts determine an
 exact metric
 
-\[
+$$
 G=G_{\rm core}/\sqrt{10}.
-\]
+$$
 
 Exact validation and exhaustive CVP give
 
-\[
+$$
 \ell^2=2/\sqrt{10}=\sqrt{2/5},
 \qquad N_{\rm class}=N_{\rm lift}=24.
-\]
+$$
 
 The Euclidean dual is a scaled `D4` lattice. An integral endomorphism squares to
 `-10 I`, and a rational index-47 decomposition proves that the surface is
@@ -75,11 +75,11 @@ Global optimality is open.
 
 The `Q(zeta_5)` candidate has
 
-\[
+$$
 \ell^2=
 \sqrt{4/25+8\sqrt5/125}
 =0.550552768188469\ldots.
-\]
+$$
 
 Outward-rounded interval CVP certifies ten shortest classes/lifts, interval width
 below `5e-69`, and a positive gap greater than `0.1299` to the next candidate.
@@ -102,17 +102,17 @@ complete classification under `GL(3,O_Delta)`.
 A full 12-dimensional search improved the initial bounded value. Max--min
 refinement equalized all three nonzero logical classes and suggested
 
-\[
+$$
 G=G_{\rm core}/\sqrt3.
-\]
+$$
 
 Independent exact validation and exhaustive CVP give
 
-\[
+$$
 \ell^2=2/\sqrt3,
 \qquad N_{\rm class}=3,
 \qquad N_{\rm lift}=36.
-\]
+$$
 
 The rational endomorphism satisfies `S^2=-3 I`. A degree-72 rational
 decomposition proves that the threefold is isogenous to `E_(i sqrt(3))^3` and
