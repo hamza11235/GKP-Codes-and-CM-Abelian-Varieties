@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or its data, please cite this repository."
+title: "CM constructions and relative systoles of GKP codes"
+type: software
+authors:
+  - family-names: "Ahmed"
+    given-names: "Hamza"
+version: 0.1.0
+date-released: 2026-07-15
+license: MIT
+keywords:
+  - GKP codes
+  - abelian varieties
+  - complex multiplication
+  - lattice algorithms
+  - quantum error correction
