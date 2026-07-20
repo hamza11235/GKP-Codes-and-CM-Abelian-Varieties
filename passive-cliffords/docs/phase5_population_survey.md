@@ -8,8 +8,8 @@ For each candidate the exact pipeline records
 
 $$
 \ell^2,\quad N_{\rm class},\quad N_{\rm lift},\quad
-|\operatorname{Aut}_0(X,L)|,\quad
-|\operatorname{im}(\operatorname{Aut}_0(X,L)\to\operatorname{Sp}(K(L)))|.
+|\mathrm{Aut}_0(X,L)|,\quad
+|\mathrm{im}(\mathrm{Aut}_0(X,L)\to\mathrm{Sp}(K(L)))|.
 $$
 
 The binary population uses all imaginary-quadratic order discriminants

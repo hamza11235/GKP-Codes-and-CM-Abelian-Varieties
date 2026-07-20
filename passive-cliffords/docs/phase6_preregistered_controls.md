@@ -48,7 +48,7 @@ difference across candidates.
 Pooling all 4,165 paired candidates in the local regime gives
 
 $$
-\operatorname{mean}(\Delta\ell^2)=-0.010445,
+\mathrm{mean}(\Delta\ell^2)=-0.010445,
 \qquad 95\%\ \mathrm{interval}=[-0.011322,-0.009568].
 $$
 

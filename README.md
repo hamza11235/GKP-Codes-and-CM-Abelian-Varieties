@@ -42,8 +42,8 @@ exponent.
 The passive logical Clifford group is the finite image
 
 $$
-\operatorname{im}\!\left(\operatorname{Aut}_0(X,L)
-\longrightarrow \operatorname{Sp}(K(L))\right).
+\mathrm{im}\!\left(\mathrm{Aut}_0(X,L)
+\longrightarrow \mathrm{Sp}(K(L))\right).
 $$
 
 This is the part of the logical symplectic group induced by exact

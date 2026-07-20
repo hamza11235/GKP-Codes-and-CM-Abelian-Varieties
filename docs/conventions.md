@@ -49,7 +49,7 @@ $$
 Hence the Euclidean metric used for lengths is
 
 $$
-g(z,w)=\operatorname{Re}H(z,w)=E(Iz,w),
+g(z,w)=\mathrm{Re}\,H(z,w)=E(Iz,w),
 \qquad |v|^2=H(v,v).
 $$
 
@@ -74,7 +74,7 @@ $$
 [E]_{\Lambda}=
 \begin{pmatrix}0&D\\-D&0\end{pmatrix},
 \qquad
-D=\operatorname{diag}(d_1,\ldots,d_n),
+D=\mathrm{diag}(d_1,\ldots,d_n),
 $$
 
 with positive integers
