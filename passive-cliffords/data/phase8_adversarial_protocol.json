@@ -1,0 +1,25 @@
+{
+  "protocol_version": "phase8-v1-adversarial-tangent-sphere",
+  "selection": "highest Phase-5 ell^2 record within each polarization type; ties prefer larger logical image then lexicographically earliest stable ID",
+  "radii": [
+    0.005,
+    0.01,
+    0.02,
+    0.05,
+    0.1
+  ],
+  "tangent_coordinates": "SVD-orthonormalized effective Sp(A)/U(G) tangent; dimension g(g+1)",
+  "distance": "RMS affine-invariant SPD distance ||log(G0^-1/2 G1 G0^-1/2)||_F/sqrt(2g)",
+  "sobol_budget": 64,
+  "bayesian_budget": 64,
+  "initial_sobol": 32,
+  "sobol_holdout": 32,
+  "bayesian_steps": 32,
+  "acquisition_pool": 4096,
+  "surrogate": "fixed Matern-5/2 Gaussian process, length scale 0.65",
+  "acquisition": "UCB mean + 2.0 * posterior standard deviation",
+  "seeds": "SHA256(protocol_version|candidate_id|radius|component)",
+  "adaptive_resampling": "only the preregistered Bayesian UCB choices",
+  "primary_failure_condition": "any evaluated ell^2/ell^2_CM > 1 beyond tolerance",
+  "claim_boundary": "adversarial numerical search, not exhaustive local or global certification"
+}

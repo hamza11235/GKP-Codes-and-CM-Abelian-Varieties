@@ -1,0 +1,732 @@
+[
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.005,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.0842021724855044e-17,
+    "stored_ell_squared": 0.9986337003108985,
+    "high_precision_ell_squared": "0.99863370031089843165",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.005,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.9943526949323972,
+    "high_precision_ell_squared": "0.99435269493239711915",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.01,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.5612511283791264e-17,
+    "stored_ell_squared": 0.9964644130670511,
+    "high_precision_ell_squared": "0.99646441306705120355",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.01,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 3.8163916471489756e-17,
+    "stored_ell_squared": 0.9889868203038417,
+    "high_precision_ell_squared": "0.98898682030384161026",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.02,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.734723475976807e-17,
+    "stored_ell_squared": 0.9920338441259514,
+    "high_precision_ell_squared": "0.9920338441259513918",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.02,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 5.898059818321144e-17,
+    "stored_ell_squared": 0.9801885922891499,
+    "high_precision_ell_squared": "0.980188592289149854",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.05,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 6.938893903907228e-18,
+    "stored_ell_squared": 0.9715807306877308,
+    "high_precision_ell_squared": "0.971580730687730822",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.05,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.3877787807814457e-17,
+    "stored_ell_squared": 0.9535485895765781,
+    "high_precision_ell_squared": "0.9535485895765782461",
+    "ell_absolute_discrepancy": 2.220446049250313e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.1,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.3877787807814457e-17,
+    "stored_ell_squared": 0.9248018610283608,
+    "high_precision_ell_squared": "0.92480186102836086",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.1,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 2.7755575615628914e-17,
+    "stored_ell_squared": 0.9120120589632026,
+    "high_precision_ell_squared": "0.91201205896320257",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.005,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 5.724587470723463e-17,
+    "stored_ell_squared": 1.148804934272232,
+    "high_precision_ell_squared": "1.14880493427223231111111111111111111111111111111111111111111",
+    "ell_absolute_discrepancy": 4.440892098500626e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.005,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.0755285551056204e-16,
+    "stored_ell_squared": 1.1469466710398533,
+    "high_precision_ell_squared": "1.14694667103985342444444444444444444444444444444444444444444",
+    "ell_absolute_discrepancy": 2.220446049250313e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.01,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 8.673617379884035e-19,
+    "stored_ell_squared": 1.1460190404805617,
+    "high_precision_ell_squared": "1.14601904048056204888888888888888888888888888888888888888889",
+    "ell_absolute_discrepancy": 4.440892098500626e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.01,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 6.245004513516506e-17,
+    "stored_ell_squared": 1.1413862474319678,
+    "high_precision_ell_squared": "1.14138624743196792222222222222222222222222222222222222222222",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.02,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.43982048506075e-16,
+    "stored_ell_squared": 1.1408255179383968,
+    "high_precision_ell_squared": "1.14082551793839681777777777777777777777777777777777777777778",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.02,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.0755285551056204e-16,
+    "stored_ell_squared": 1.1282731939265178,
+    "high_precision_ell_squared": "1.12827319392651757111111111111111111111111111111111111111111",
+    "ell_absolute_discrepancy": 2.220446049250313e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.05,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 6.938893903907228e-18,
+    "stored_ell_squared": 1.1020878350540957,
+    "high_precision_ell_squared": "1.10208783505409604888888888888888888888888888888888888888889",
+    "ell_absolute_discrepancy": 4.440892098500626e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.05,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.3183898417423734e-16,
+    "stored_ell_squared": 1.1048082417363945,
+    "high_precision_ell_squared": "1.10480824173639449555555555555555555555555555555555555555556",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.1,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 6.938893903907228e-17,
+    "stored_ell_squared": 1.060859411995187,
+    "high_precision_ell_squared": "1.06085941199518667555555555555555555555555555555555555555556",
+    "ell_absolute_discrepancy": 4.440892098500626e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.1,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 6.938893903907228e-17,
+    "stored_ell_squared": 1.0227143589523087,
+    "high_precision_ell_squared": "1.02271435895230882444444444444444444444444444444444444444444",
+    "ell_absolute_discrepancy": 2.220446049250313e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.005,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 6.331740687315346e-17,
+    "stored_ell_squared": 0.9960829816857142,
+    "high_precision_ell_squared": "0.99608298168571415495",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.005,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 2.1423834928313568e-16,
+    "stored_ell_squared": 0.9943415195943069,
+    "high_precision_ell_squared": "0.9943415195943069380995",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.01,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 7.806255641895632e-17,
+    "stored_ell_squared": 0.9920279783173102,
+    "high_precision_ell_squared": "0.9920279783173101663",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.01,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 2.0816681711721685e-16,
+    "stored_ell_squared": 0.9887795611762191,
+    "high_precision_ell_squared": "0.98877956117621906932",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.02,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 9.020562075079397e-17,
+    "stored_ell_squared": 0.9833213752062874,
+    "high_precision_ell_squared": "0.9833213752062874286",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.02,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 7.632783294297951e-17,
+    "stored_ell_squared": 0.9788831600540564,
+    "high_precision_ell_squared": "0.9788831600540563965",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.05,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.6653345369377348e-16,
+    "stored_ell_squared": 0.9541203361224534,
+    "high_precision_ell_squared": "0.9541203361224534128",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.05,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 5.551115123125783e-17,
+    "stored_ell_squared": 0.9510218936326529,
+    "high_precision_ell_squared": "0.9510218936326529312",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.1,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.1102230246251565e-16,
+    "stored_ell_squared": 0.9263212816711583,
+    "high_precision_ell_squared": "0.926321281671158348",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.1,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.1102230246251565e-16,
+    "stored_ell_squared": 0.8948649141137887,
+    "high_precision_ell_squared": "0.8948649141137886415",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.005,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.734723475976807e-18,
+    "stored_ell_squared": 0.8128106247401296,
+    "high_precision_ell_squared": "0.81281062474012953111111111111111111111111111111111111111111",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.005,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 4.336808689942018e-18,
+    "stored_ell_squared": 0.8118828740867949,
+    "high_precision_ell_squared": "0.811882874086794385000000000000000000000000000000000000000001",
+    "ell_absolute_discrepancy": 5.551115123125783e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.01,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 5.204170427930421e-18,
+    "stored_ell_squared": 0.8086677445481846,
+    "high_precision_ell_squared": "0.808667744548184894364444444444444444444444444444444444444444",
+    "ell_absolute_discrepancy": 3.3306690738754696e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.01,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 6.938893903907228e-18,
+    "stored_ell_squared": 0.8089013899965758,
+    "high_precision_ell_squared": "0.808901389996575322444444444444444444444444444444444444444444",
+    "ell_absolute_discrepancy": 4.440892098500626e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.02,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 2.0816681711721685e-17,
+    "stored_ell_squared": 0.8012411099786506,
+    "high_precision_ell_squared": "0.801241109978650530666666666666666666666666666666666666666668",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.02,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 1.734723475976807e-17,
+    "stored_ell_squared": 0.8002917044811759,
+    "high_precision_ell_squared": "0.800291704481175955555555555555555555555555555555555555555555",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.05,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 4.163336342344337e-17,
+    "stored_ell_squared": 0.7826121136593772,
+    "high_precision_ell_squared": "0.782612113659377875555555555555555555555555555555555555555556",
+    "ell_absolute_discrepancy": 6.661338147750939e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.05,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 4.163336342344337e-17,
+    "stored_ell_squared": 0.7711883110162666,
+    "high_precision_ell_squared": "0.771188311016266634033333333333333333333333333333333333333334",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.1,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 8.326672684688674e-17,
+    "stored_ell_squared": 0.7463361600475025,
+    "high_precision_ell_squared": "0.746336160047502418222222222222222222222222222222222222222222",
+    "ell_absolute_discrepancy": 0.0,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.1,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 5.551115123125783e-17,
+    "stored_ell_squared": 0.7585481238724349,
+    "high_precision_ell_squared": "0.758548123872435306666666666666666666666666666666666666666667",
+    "ell_absolute_discrepancy": 4.440892098500626e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.005,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.537049220876563,
+    "high_precision_ell_squared": "0.537049220876564062752000000000000000000000000000000000000001",
+    "ell_absolute_discrepancy": 9.992007221626409e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.005,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.5364073487456295,
+    "high_precision_ell_squared": "0.53640734874562956128",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.01,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.534057568777068,
+    "high_precision_ell_squared": "0.534057568777069390273600000000000000000000000000000000000003",
+    "ell_absolute_discrepancy": 1.3322676295501878e-15,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.01,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.5340677306924002,
+    "high_precision_ell_squared": "0.534067730692399281920000000000000000000000000000000000000002",
+    "ell_absolute_discrepancy": 8.881784197001252e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.02,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.5295546517068356,
+    "high_precision_ell_squared": "0.529554651706836541952",
+    "ell_absolute_discrepancy": 9.992007221626409e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.02,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.5294744359773885,
+    "high_precision_ell_squared": "0.529474435977388140864000000000000000000000000000000000000001",
+    "ell_absolute_discrepancy": 3.3306690738754696e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.05,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.5208302451984979,
+    "high_precision_ell_squared": "0.52083024519849764256",
+    "ell_absolute_discrepancy": 2.220446049250313e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.05,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.5160221077749049,
+    "high_precision_ell_squared": "0.516022107774904451199999999999999999999999999999999999999999",
+    "ell_absolute_discrepancy": 4.440892098500626e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.1,
+    "extremum": "best",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.49248899327047263,
+    "high_precision_ell_squared": "0.4924889932704735288",
+    "ell_absolute_discrepancy": 8.881784197001252e-16,
+    "enhanced_exact_action_count": 0
+  },
+  {
+    "candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.1,
+    "extremum": "worst",
+    "maximum_scalar_vectorized_defect_discrepancy": 0.0,
+    "stored_ell_squared": 0.4846406615832496,
+    "high_precision_ell_squared": "0.4846406615832493392",
+    "ell_absolute_discrepancy": 2.220446049250313e-16,
+    "enhanced_exact_action_count": 0
+  }
+]

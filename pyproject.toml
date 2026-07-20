@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gkp-systole"
-version = "0.1.0"
-description = "Certified relative-systole computations for polarized abelian varieties and lattice GKP codes"
+version = "0.2.0"
+description = "Relative systoles and passive Clifford symmetries of GKP codes from CM abelian varieties"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}

@@ -1,0 +1,155 @@
+[
+  {
+    "dimension_g": 3,
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "candidate_count": 1051,
+    "extra_passive_symmetry_count": 131,
+    "extra_passive_symmetry_fraction": 0.12464319695528069,
+    "mean_ell_squared": 0.48329975616339027,
+    "median_ell_squared": 0.48038446141526137,
+    "mean_ell_squared_enhanced": 0.6561998567501266,
+    "mean_ell_squared_minimal_image": 0.45868028531897453,
+    "upper_quartile_extra_symmetry_fraction": 0.22813688212927757,
+    "best_distance_candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+    "best_ell_squared_exact": "2/sqrt(4)",
+    "best_distance_logical_image_order": 6,
+    "best_distance_has_maximum_image": true,
+    "maximum_logical_image_order": 6,
+    "maximum_image_candidate_count": 10,
+    "logical_image_histogram": {
+      "1": 920,
+      "2": 84,
+      "3": 37,
+      "6": 10
+    },
+    "pareto_candidate_count": 10,
+    "distance_log_image_correlation": 0.3269500237709125
+  },
+  {
+    "dimension_g": 3,
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "candidate_count": 1070,
+    "extra_passive_symmetry_count": 106,
+    "extra_passive_symmetry_fraction": 0.09906542056074766,
+    "mean_ell_squared": 0.38332148850747283,
+    "median_ell_squared": 0.3849001794597505,
+    "mean_ell_squared_enhanced": 0.586100934316786,
+    "mean_ell_squared_minimal_image": 0.3610241635533367,
+    "upper_quartile_extra_symmetry_fraction": 0.22761194029850745,
+    "best_distance_candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+    "best_ell_squared_exact": "2/sqrt(3)",
+    "best_distance_logical_image_order": 24,
+    "best_distance_has_maximum_image": true,
+    "maximum_logical_image_order": 24,
+    "maximum_image_candidate_count": 8,
+    "logical_image_histogram": {
+      "2": 964,
+      "4": 37,
+      "6": 61,
+      "24": 8
+    },
+    "pareto_candidate_count": 8,
+    "distance_log_image_correlation": 0.44229201349364394
+  },
+  {
+    "dimension_g": 3,
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "candidate_count": 253,
+    "extra_passive_symmetry_count": 203,
+    "extra_passive_symmetry_fraction": 0.8023715415019763,
+    "mean_ell_squared": 0.3819854067599739,
+    "median_ell_squared": 0.35355339059327373,
+    "mean_ell_squared_enhanced": 0.4019104245018534,
+    "mean_ell_squared_minimal_image": 0.3010898347279431,
+    "upper_quartile_extra_symmetry_fraction": 0.90625,
+    "best_distance_candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+    "best_ell_squared_exact": "2/sqrt(4)",
+    "best_distance_logical_image_order": 48,
+    "best_distance_has_maximum_image": true,
+    "maximum_logical_image_order": 48,
+    "maximum_image_candidate_count": 2,
+    "logical_image_histogram": {
+      "1": 50,
+      "2": 144,
+      "3": 1,
+      "4": 4,
+      "6": 29,
+      "8": 10,
+      "12": 3,
+      "18": 10,
+      "48": 2
+    },
+    "pareto_candidate_count": 2,
+    "distance_log_image_correlation": 0.6631580857516594
+  },
+  {
+    "dimension_g": 2,
+    "polarization_type": [
+      1,
+      3
+    ],
+    "candidate_count": 876,
+    "extra_passive_symmetry_count": 43,
+    "extra_passive_symmetry_fraction": 0.04908675799086758,
+    "mean_ell_squared": 0.3634843717546204,
+    "median_ell_squared": 0.3457178078058726,
+    "mean_ell_squared_enhanced": 0.534008395714506,
+    "mean_ell_squared_minimal_image": 0.3546818110940261,
+    "upper_quartile_extra_symmetry_fraction": 0.0867579908675799,
+    "best_distance_candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+    "best_ell_squared_exact": "4/sqrt(24)",
+    "best_distance_logical_image_order": 24,
+    "best_distance_has_maximum_image": true,
+    "maximum_logical_image_order": 24,
+    "maximum_image_candidate_count": 1,
+    "logical_image_histogram": {
+      "2": 833,
+      "4": 16,
+      "6": 26,
+      "24": 1
+    },
+    "pareto_candidate_count": 1,
+    "distance_log_image_correlation": 0.22176638502442975
+  },
+  {
+    "dimension_g": 2,
+    "polarization_type": [
+      1,
+      5
+    ],
+    "candidate_count": 915,
+    "extra_passive_symmetry_count": 38,
+    "extra_passive_symmetry_fraction": 0.041530054644808745,
+    "mean_ell_squared": 0.2551951004387041,
+    "median_ell_squared": 0.26967994498529685,
+    "mean_ell_squared_enhanced": 0.38588539126908944,
+    "mean_ell_squared_minimal_image": 0.24953235123510703,
+    "upper_quartile_extra_symmetry_fraction": 0.11353711790393013,
+    "best_distance_candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+    "best_ell_squared_exact": "4/sqrt(55)",
+    "best_distance_logical_image_order": 4,
+    "best_distance_has_maximum_image": false,
+    "maximum_logical_image_order": 8,
+    "maximum_image_candidate_count": 1,
+    "logical_image_histogram": {
+      "2": 877,
+      "4": 25,
+      "6": 12,
+      "8": 1
+    },
+    "pareto_candidate_count": 4,
+    "distance_log_image_correlation": 0.19936030094613305
+  }
+]

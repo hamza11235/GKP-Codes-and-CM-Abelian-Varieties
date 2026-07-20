@@ -1,0 +1,49 @@
+{
+  "protocol_version": "phase10-v1-blind-bounded-global-moduli-search",
+  "polarization_types": [
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      1,
+      2
+    ],
+    [
+      1,
+      1,
+      3
+    ],
+    [
+      1,
+      2,
+      2
+    ]
+  ],
+  "intrinsic_radii": [
+    0.25,
+    0.5,
+    1.0,
+    1.5
+  ],
+  "reference": "canonical product metric diag(D,D), selected from D only",
+  "chart": "full g(g+1)-dimensional exponential Cartan chart on Sp/U",
+  "domain": "closed RMS affine-invariant ball about the canonical product metric",
+  "objective_visible_to_optimizers": "relative systole squared ell^2 only, via exhaustive finite-kernel enumeration and floating-point branch-and-bound CVP",
+  "method_budget": 96,
+  "methods": {
+    "sobol": "scrambled Sobol uniform-in-ball design",
+    "cma_es": "rank-mu CMA-ES with 2 restarts",
+    "bayesian_ucb": "32 initial Sobol-ball points + 64 fixed-Matern-5/2 GP-UCB queries"
+  },
+  "acquisition_pool": 2048,
+  "ucb_kappa": 2.0,
+  "seeds": "SHA256(protocol_version|D|radius|component)",
+  "blinding": "blind summaries/evaluations are completed without loading CM or gate data; CM comparisons are generated afterward in a separate function and ledger",
+  "claim_boundary": "bounded deterministic numerical search; no proof of global optimality and no arithmetic recognition of a floating-point endpoint"
+}

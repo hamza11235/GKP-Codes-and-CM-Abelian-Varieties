@@ -1,0 +1,542 @@
+{
+  "claim": "Numerical evidence that CM points are enriched near extremal regions for GKP distance and passive Clifford symmetry; no global-optimality claim.",
+  "polarization_types": [
+    "(1,3)",
+    "(1,5)",
+    "(1,1,2)",
+    "(1,1,3)",
+    "(1,2,2)"
+  ],
+  "phase5": {
+    "cm_candidate_count": 4165,
+    "type_summaries": [
+      {
+        "dimension_g": 3,
+        "polarization_type": [
+          1,
+          1,
+          2
+        ],
+        "candidate_count": 1051,
+        "extra_passive_symmetry_count": 131,
+        "extra_passive_symmetry_fraction": 0.12464319695528069,
+        "mean_ell_squared": 0.48329975616339027,
+        "median_ell_squared": 0.48038446141526137,
+        "mean_ell_squared_enhanced": 0.6561998567501266,
+        "mean_ell_squared_minimal_image": 0.45868028531897453,
+        "upper_quartile_extra_symmetry_fraction": 0.22813688212927757,
+        "best_distance_candidate_id": "g3_type_1_1_2_delta_m4_h_1_2_2_0_0_0_0_m1_m1",
+        "best_ell_squared_exact": "2/sqrt(4)",
+        "best_distance_logical_image_order": 6,
+        "best_distance_has_maximum_image": true,
+        "maximum_logical_image_order": 6,
+        "maximum_image_candidate_count": 10,
+        "logical_image_histogram": {
+          "1": 920,
+          "2": 84,
+          "3": 37,
+          "6": 10
+        },
+        "pareto_candidate_count": 10,
+        "distance_log_image_correlation": 0.3269500237709125,
+        "type_label": "(1,1,2)"
+      },
+      {
+        "dimension_g": 3,
+        "polarization_type": [
+          1,
+          1,
+          3
+        ],
+        "candidate_count": 1070,
+        "extra_passive_symmetry_count": 106,
+        "extra_passive_symmetry_fraction": 0.09906542056074766,
+        "mean_ell_squared": 0.38332148850747283,
+        "median_ell_squared": 0.3849001794597505,
+        "mean_ell_squared_enhanced": 0.586100934316786,
+        "mean_ell_squared_minimal_image": 0.3610241635533367,
+        "upper_quartile_extra_symmetry_fraction": 0.22761194029850745,
+        "best_distance_candidate_id": "g3_type_1_1_3_delta_m3_h_2_2_2_m1_0_m1_0_0_1",
+        "best_ell_squared_exact": "2/sqrt(3)",
+        "best_distance_logical_image_order": 24,
+        "best_distance_has_maximum_image": true,
+        "maximum_logical_image_order": 24,
+        "maximum_image_candidate_count": 8,
+        "logical_image_histogram": {
+          "2": 964,
+          "4": 37,
+          "6": 61,
+          "24": 8
+        },
+        "pareto_candidate_count": 8,
+        "distance_log_image_correlation": 0.44229201349364394,
+        "type_label": "(1,1,3)"
+      },
+      {
+        "dimension_g": 3,
+        "polarization_type": [
+          1,
+          2,
+          2
+        ],
+        "candidate_count": 253,
+        "extra_passive_symmetry_count": 203,
+        "extra_passive_symmetry_fraction": 0.8023715415019763,
+        "mean_ell_squared": 0.3819854067599739,
+        "median_ell_squared": 0.35355339059327373,
+        "mean_ell_squared_enhanced": 0.4019104245018534,
+        "mean_ell_squared_minimal_image": 0.3010898347279431,
+        "upper_quartile_extra_symmetry_fraction": 0.90625,
+        "best_distance_candidate_id": "g3_type_1_2_2_delta_m4_h_2_2_3_0_0_m1_m1_m1_m1",
+        "best_ell_squared_exact": "2/sqrt(4)",
+        "best_distance_logical_image_order": 48,
+        "best_distance_has_maximum_image": true,
+        "maximum_logical_image_order": 48,
+        "maximum_image_candidate_count": 2,
+        "logical_image_histogram": {
+          "1": 50,
+          "2": 144,
+          "3": 1,
+          "4": 4,
+          "6": 29,
+          "8": 10,
+          "12": 3,
+          "18": 10,
+          "48": 2
+        },
+        "pareto_candidate_count": 2,
+        "distance_log_image_correlation": 0.6631580857516594,
+        "type_label": "(1,2,2)"
+      },
+      {
+        "dimension_g": 2,
+        "polarization_type": [
+          1,
+          3
+        ],
+        "candidate_count": 876,
+        "extra_passive_symmetry_count": 43,
+        "extra_passive_symmetry_fraction": 0.04908675799086758,
+        "mean_ell_squared": 0.3634843717546204,
+        "median_ell_squared": 0.3457178078058726,
+        "mean_ell_squared_enhanced": 0.534008395714506,
+        "mean_ell_squared_minimal_image": 0.3546818110940261,
+        "upper_quartile_extra_symmetry_fraction": 0.0867579908675799,
+        "best_distance_candidate_id": "g2_type_1_3_delta_m24_h_6_6_3_2",
+        "best_ell_squared_exact": "4/sqrt(24)",
+        "best_distance_logical_image_order": 24,
+        "best_distance_has_maximum_image": true,
+        "maximum_logical_image_order": 24,
+        "maximum_image_candidate_count": 1,
+        "logical_image_histogram": {
+          "2": 833,
+          "4": 16,
+          "6": 26,
+          "24": 1
+        },
+        "pareto_candidate_count": 1,
+        "distance_log_image_correlation": 0.22176638502442975,
+        "type_label": "(1,3)"
+      },
+      {
+        "dimension_g": 2,
+        "polarization_type": [
+          1,
+          5
+        ],
+        "candidate_count": 915,
+        "extra_passive_symmetry_count": 38,
+        "extra_passive_symmetry_fraction": 0.041530054644808745,
+        "mean_ell_squared": 0.2551951004387041,
+        "median_ell_squared": 0.26967994498529685,
+        "mean_ell_squared_enhanced": 0.38588539126908944,
+        "mean_ell_squared_minimal_image": 0.24953235123510703,
+        "upper_quartile_extra_symmetry_fraction": 0.11353711790393013,
+        "best_distance_candidate_id": "g2_type_1_5_delta_m55_h_15_15_2_m4",
+        "best_ell_squared_exact": "4/sqrt(55)",
+        "best_distance_logical_image_order": 4,
+        "best_distance_has_maximum_image": false,
+        "maximum_logical_image_order": 8,
+        "maximum_image_candidate_count": 1,
+        "logical_image_histogram": {
+          "2": 877,
+          "4": 25,
+          "6": 12,
+          "8": 1
+        },
+        "pareto_candidate_count": 4,
+        "distance_log_image_correlation": 0.19936030094613305,
+        "type_label": "(1,5)"
+      }
+    ]
+  },
+  "phase6": {
+    "generic_control_count": 24990,
+    "type_regime_summaries": [
+      {
+        "polarization_type": [
+          1,
+          1,
+          2
+        ],
+        "regime": "broad",
+        "candidate_count": 1051,
+        "control_count": 3153,
+        "mean_cm_ell_squared": 0.48329975616339027,
+        "mean_control_ell_squared": 0.47735018367107435,
+        "mean_paired_ell_difference": -0.005949572492315901,
+        "median_control_to_cm_ratio": 1.0088457392983894,
+        "ratio_quantile_05": 0.7186662495731495,
+        "ratio_quantile_95": 1.4716537252742308,
+        "control_beats_cm_count": 1666,
+        "control_beats_cm_fraction": 0.5283856644465589,
+        "control_ties_cm_count": 28,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 25,
+        "gate_audit_unresolved_count": 0,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "1": 25
+        },
+        "cm_image_exceeds_control_fraction": 0.0,
+        "mean_relative_metric_displacement": 0.8410684925585717,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,1,2)"
+      },
+      {
+        "polarization_type": [
+          1,
+          1,
+          2
+        ],
+        "regime": "local",
+        "candidate_count": 1051,
+        "control_count": 3153,
+        "mean_cm_ell_squared": 0.48329975616339027,
+        "mean_control_ell_squared": 0.47798127978609367,
+        "mean_paired_ell_difference": -0.005318476377296608,
+        "median_control_to_cm_ratio": 0.9965398797502558,
+        "ratio_quantile_05": 0.9478414451805317,
+        "ratio_quantile_95": 1.0282440322359552,
+        "control_beats_cm_count": 1253,
+        "control_beats_cm_fraction": 0.3973993022518237,
+        "control_ties_cm_count": 3,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 25,
+        "gate_audit_unresolved_count": 0,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "1": 25
+        },
+        "cm_image_exceeds_control_fraction": 0.04,
+        "mean_relative_metric_displacement": 0.07421985813019588,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,1,2)"
+      },
+      {
+        "polarization_type": [
+          1,
+          1,
+          3
+        ],
+        "regime": "broad",
+        "candidate_count": 1070,
+        "control_count": 3210,
+        "mean_cm_ell_squared": 0.38332148850747283,
+        "mean_control_ell_squared": 0.3858366515022086,
+        "mean_paired_ell_difference": 0.0025151629947357274,
+        "median_control_to_cm_ratio": 1.0156269557453785,
+        "ratio_quantile_05": 0.7241251534513778,
+        "ratio_quantile_95": 1.572724542211229,
+        "control_beats_cm_count": 1753,
+        "control_beats_cm_fraction": 0.5461059190031152,
+        "control_ties_cm_count": 30,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 25,
+        "gate_audit_unresolved_count": 0,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "2": 25
+        },
+        "cm_image_exceeds_control_fraction": 0.16,
+        "mean_relative_metric_displacement": 0.8543923941999464,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,1,3)"
+      },
+      {
+        "polarization_type": [
+          1,
+          1,
+          3
+        ],
+        "regime": "local",
+        "candidate_count": 1070,
+        "control_count": 3210,
+        "mean_cm_ell_squared": 0.38332148850747283,
+        "mean_control_ell_squared": 0.379456696622923,
+        "mean_paired_ell_difference": -0.0038647918845498594,
+        "median_control_to_cm_ratio": 0.9959757168840213,
+        "ratio_quantile_05": 0.9467537277935918,
+        "ratio_quantile_95": 1.034488325027128,
+        "control_beats_cm_count": 1284,
+        "control_beats_cm_fraction": 0.4,
+        "control_ties_cm_count": 7,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 25,
+        "gate_audit_unresolved_count": 0,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "2": 25
+        },
+        "cm_image_exceeds_control_fraction": 0.16,
+        "mean_relative_metric_displacement": 0.07294993362000234,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,1,3)"
+      },
+      {
+        "polarization_type": [
+          1,
+          2,
+          2
+        ],
+        "regime": "broad",
+        "candidate_count": 253,
+        "control_count": 759,
+        "mean_cm_ell_squared": 0.3819854067599739,
+        "mean_control_ell_squared": 0.3759486165802547,
+        "mean_paired_ell_difference": -0.00603679017971919,
+        "median_control_to_cm_ratio": 1.0,
+        "ratio_quantile_05": 0.7317365408849885,
+        "ratio_quantile_95": 1.4643207271127063,
+        "control_beats_cm_count": 372,
+        "control_beats_cm_fraction": 0.4901185770750988,
+        "control_ties_cm_count": 12,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 24,
+        "gate_audit_unresolved_count": 1,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "1": 24
+        },
+        "cm_image_exceeds_control_fraction": 0.7916666666666666,
+        "mean_relative_metric_displacement": 0.8156352867140709,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,2,2)"
+      },
+      {
+        "polarization_type": [
+          1,
+          2,
+          2
+        ],
+        "regime": "local",
+        "candidate_count": 253,
+        "control_count": 759,
+        "mean_cm_ell_squared": 0.3819854067599739,
+        "mean_control_ell_squared": 0.3765887971123887,
+        "mean_paired_ell_difference": -0.0053966096475851835,
+        "median_control_to_cm_ratio": 0.9931020822387999,
+        "ratio_quantile_05": 0.9498238906327718,
+        "ratio_quantile_95": 1.02387992858508,
+        "control_beats_cm_count": 245,
+        "control_beats_cm_fraction": 0.3227931488801054,
+        "control_ties_cm_count": 1,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 25,
+        "gate_audit_unresolved_count": 0,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "1": 25
+        },
+        "cm_image_exceeds_control_fraction": 0.76,
+        "mean_relative_metric_displacement": 0.07353093323937683,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,2,2)"
+      },
+      {
+        "polarization_type": [
+          1,
+          3
+        ],
+        "regime": "broad",
+        "candidate_count": 876,
+        "control_count": 2628,
+        "mean_cm_ell_squared": 0.3634843717546204,
+        "mean_control_ell_squared": 0.3065943031128471,
+        "mean_paired_ell_difference": -0.056890068641773345,
+        "median_control_to_cm_ratio": 0.9845928683619205,
+        "ratio_quantile_05": 0.3431300202219523,
+        "ratio_quantile_95": 1.8769873192679691,
+        "control_beats_cm_count": 1214,
+        "control_beats_cm_fraction": 0.4619482496194825,
+        "control_ties_cm_count": 20,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 18,
+        "gate_audit_unresolved_count": 7,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "2": 18
+        },
+        "cm_image_exceeds_control_fraction": 0.0,
+        "mean_relative_metric_displacement": 233.43115310560552,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,3)"
+      },
+      {
+        "polarization_type": [
+          1,
+          3
+        ],
+        "regime": "local",
+        "candidate_count": 876,
+        "control_count": 2628,
+        "mean_cm_ell_squared": 0.3634843717546204,
+        "mean_control_ell_squared": 0.33681499398134396,
+        "mean_paired_ell_difference": -0.026669377773276434,
+        "median_control_to_cm_ratio": 0.9967197540494366,
+        "ratio_quantile_05": 0.6959185068648381,
+        "ratio_quantile_95": 1.0806690990901664,
+        "control_beats_cm_count": 1091,
+        "control_beats_cm_fraction": 0.415144596651446,
+        "control_ties_cm_count": 3,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 25,
+        "gate_audit_unresolved_count": 0,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "2": 25
+        },
+        "cm_image_exceeds_control_fraction": 0.04,
+        "mean_relative_metric_displacement": 0.3583631918772106,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,3)"
+      },
+      {
+        "polarization_type": [
+          1,
+          5
+        ],
+        "regime": "broad",
+        "candidate_count": 915,
+        "control_count": 2745,
+        "mean_cm_ell_squared": 0.2551951004387041,
+        "mean_control_ell_squared": 0.2305521064380241,
+        "mean_paired_ell_difference": -0.024642994000680016,
+        "median_control_to_cm_ratio": 1.0176271821169323,
+        "ratio_quantile_05": 0.3517623442713991,
+        "ratio_quantile_95": 2.4549969369365563,
+        "control_beats_cm_count": 1441,
+        "control_beats_cm_fraction": 0.5249544626593807,
+        "control_ties_cm_count": 25,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 16,
+        "gate_audit_unresolved_count": 9,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "2": 16
+        },
+        "cm_image_exceeds_control_fraction": 0.0625,
+        "mean_relative_metric_displacement": 239.07554180099487,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,5)"
+      },
+      {
+        "polarization_type": [
+          1,
+          5
+        ],
+        "regime": "local",
+        "candidate_count": 915,
+        "control_count": 2745,
+        "mean_cm_ell_squared": 0.2551951004387041,
+        "mean_control_ell_squared": 0.24530317498828436,
+        "mean_paired_ell_difference": -0.009891925450419742,
+        "median_control_to_cm_ratio": 1.0015093472142638,
+        "ratio_quantile_05": 0.7557192216235251,
+        "ratio_quantile_95": 1.0940020494267735,
+        "control_beats_cm_count": 1492,
+        "control_beats_cm_fraction": 0.5435336976320583,
+        "control_ties_cm_count": 2,
+        "gate_audit_count": 25,
+        "gate_audit_certified_count": 25,
+        "gate_audit_unresolved_count": 0,
+        "control_extra_passive_symmetry_count": 0,
+        "control_logical_image_histogram": {
+          "2": 25
+        },
+        "cm_image_exceeds_control_fraction": 0.04,
+        "mean_relative_metric_displacement": 0.3551695031960984,
+        "maximum_metric_residual": 0.0,
+        "type_label": "(1,5)"
+      }
+    ]
+  },
+  "phase7": {
+    "equal_distance_control_count": 24990,
+    "all_mean_differences_negative": true,
+    "all_descriptive_intervals_below_zero": true
+  },
+  "phase8": {
+    "objective_evaluations": 2400,
+    "counterexamples_found": 0,
+    "bayesian_beats_sobol_count": 19,
+    "search_count": 25
+  },
+  "phase9": {
+    "objective_evaluations": 3200,
+    "nonzero_deformations_with_exact_enhanced_action": 0
+  },
+  "phase10": {
+    "objective_evaluations": 5760,
+    "blind_counterexamples_found": 0,
+    "largest_radius_results": [
+      {
+        "polarization_type": "(1,3)",
+        "best_blind_ell_squared": 0.7309178437485679,
+        "phase5_population_champion_ell_squared": 0.8164965809277261,
+        "strongest_known_cm_ell_squared": 0.8164965809277261,
+        "blind_to_strongest_known_cm_ratio": 0.8951878805396573,
+        "best_method": "bayesian_ucb"
+      },
+      {
+        "polarization_type": "(1,5)",
+        "best_blind_ell_squared": 0.47037912849758134,
+        "phase5_population_champion_ell_squared": 0.5393598899705937,
+        "strongest_known_cm_ell_squared": 0.6324555320336759,
+        "blind_to_strongest_known_cm_ratio": 0.7437347049286864,
+        "best_method": "cma_es"
+      },
+      {
+        "polarization_type": "(1,1,2)",
+        "best_blind_ell_squared": 0.8690622455203525,
+        "phase5_population_champion_ell_squared": 1.0,
+        "strongest_known_cm_ell_squared": 1.1547005383792517,
+        "blind_to_strongest_known_cm_ratio": 0.7526299820905741,
+        "best_method": "cma_es"
+      },
+      {
+        "polarization_type": "(1,1,3)",
+        "best_blind_ell_squared": 0.7777295001565545,
+        "phase5_population_champion_ell_squared": 1.1547005383792517,
+        "strongest_known_cm_ell_squared": 1.1547005383792517,
+        "blind_to_strongest_known_cm_ratio": 0.6735335044081496,
+        "best_method": "bayesian_ucb"
+      },
+      {
+        "polarization_type": "(1,2,2)",
+        "best_blind_ell_squared": 0.7354146349642461,
+        "phase5_population_champion_ell_squared": 1.0,
+        "strongest_known_cm_ell_squared": 1.0,
+        "blind_to_strongest_known_cm_ratio": 0.7354146349642461,
+        "best_method": "bayesian_ucb"
+      }
+    ],
+    "maximum_high_precision_discrepancy": 2.220446049250313e-16
+  },
+  "claim_boundary": [
+    "The CM populations are bounded computational samples.",
+    "The generic controls are matched local real deformations and are non-CM almost surely; individual endomorphism rings are not all certified.",
+    "The adversarial and blind searches are finite-budget bounded numerical searches.",
+    "No theorem of local or global optimality is claimed."
+  ]
+}

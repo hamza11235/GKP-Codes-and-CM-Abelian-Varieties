@@ -1,0 +1,33 @@
+{
+  "protocol_version": "phase6-v1-preregistered",
+  "seed_derivation": "SHA256(protocol_version|candidate_id|regime), first 8 bytes mod (2^31-1)",
+  "adaptive_resampling": false,
+  "gate_audit": {
+    "candidates_per_type_regime": 25,
+    "control_index": 0,
+    "selection": "smallest SHA256(protocol_version|gate-audit|candidate_id|regime)",
+    "total_audited_controls": 250,
+    "enumeration_time_limit_seconds": 1.0,
+    "timeout_status": "bounded_unresolved",
+    "computational_amendment": "Fixed before scientific outcomes after an exhaustive enumeration was observed to have pathological runtime; distance sampling and gate-audit selection unchanged."
+  },
+  "regimes": [
+    {
+      "name": "local",
+      "samples_per_candidate": 3,
+      "amplitude": 0.002,
+      "steps": 4,
+      "vector_bound": 2,
+      "coefficient_denominator": 10000000
+    },
+    {
+      "name": "broad",
+      "samples_per_candidate": 3,
+      "amplitude": 0.05,
+      "steps": 4,
+      "vector_bound": 1,
+      "coefficient_denominator": 10000000
+    }
+  ],
+  "control_status": "generic-real pi deformations; non-CM almost surely; individual endomorphism rings not certified"
+}

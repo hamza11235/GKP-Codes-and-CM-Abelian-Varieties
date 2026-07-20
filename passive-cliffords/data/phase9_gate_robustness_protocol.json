@@ -1,0 +1,30 @@
+{
+  "protocol_version": "phase9-v1-radial-passive-gate-robustness",
+  "candidate_selection": "same five within-type CM champions as Phase 8; ell^2 ties prefer larger logical image then lexicographically earliest stable ID",
+  "radii": [
+    0.005,
+    0.01,
+    0.02,
+    0.05,
+    0.1
+  ],
+  "tau": 0.02,
+  "epsilons": [
+    1e-08,
+    0.0025,
+    0.005,
+    0.01,
+    0.02,
+    0.05,
+    0.1
+  ],
+  "logical_action_defect": "minimum over CM automorphism representatives of ||G^-1/2(U^T G U-G)G^-1/2||_F/sqrt(2g)",
+  "generic_action_image": "logical actions induced by {+I,-I}",
+  "retention_score": "mean exp(-(defect/tau)^2) over CM-enhanced logical actions, excluding the complete generic {+I,-I} image",
+  "sobol_budget": 64,
+  "best_retention_bayesian_budget": 64,
+  "worst_retention_bayesian_budget": 64,
+  "surrogate": "fixed Matern-5/2 GP with UCB mean+2*std",
+  "seeds": "SHA256(protocol_version|candidate_id|radius|component)",
+  "claim_boundary": "tracks approximate retention of logical actions present at the CM baseline; does not enumerate new automorphisms of every deformed metric"
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.25,
+    "method": "sobol",
+    "stored_ell_squared": 0.3450060336642416,
+    "high_precision_ell_squared": "0.3450060336642416111111111111111111111111111111111111111111111111111111",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.24811013649126973,
+    "recomputed_rms_distance": 0.24811013649126973,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.25,
+    "method": "cma_es",
+    "stored_ell_squared": 0.3440966734376592,
+    "high_precision_ell_squared": "0.3440966734376592777777777777777777777777777777777777777777777777777778",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.25000000000000006,
+    "recomputed_rms_distance": 0.25000000000000006,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.25,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.3491025842520147,
+    "high_precision_ell_squared": "0.3491025842520147666666666666666666666666666666666666666666666666666667",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 0.24134577747312502,
+    "recomputed_rms_distance": 0.24134577747312502,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.36630812775466315,
+    "high_precision_ell_squared": "0.3663081277546631777777777777777777777777777777777777777777777777777778",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.4488084428809995,
+    "recomputed_rms_distance": 0.4488084428809995,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.3989957827085304,
+    "high_precision_ell_squared": "0.3989957827085304444444444444444444444444444444444444444444444444444444",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.4999999999999997,
+    "recomputed_rms_distance": 0.4999999999999997,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 0.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.38488009228973263,
+    "high_precision_ell_squared": "0.3848800922897326777777777777777777777777777777777777777777777777777778",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.46193951239351855,
+    "recomputed_rms_distance": 0.46193951239351855,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 1.0,
+    "method": "sobol",
+    "stored_ell_squared": 0.4817275160454071,
+    "high_precision_ell_squared": "0.4817275160454071333333333333333333333333333333333333333333333333333333",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.9938776076505209,
+    "recomputed_rms_distance": 0.9938776076505209,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 1.0,
+    "method": "cma_es",
+    "stored_ell_squared": 0.5175110503532458,
+    "high_precision_ell_squared": "0.5175110503532459444444444444444444444444444444444444444444444444444444",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 0.9999999999999997,
+    "recomputed_rms_distance": 0.9999999999999997,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 1.0,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.4836163125791172,
+    "high_precision_ell_squared": "0.4836163125791172555555555555555555555555555555555555555555555555555555",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.9786111873233365,
+    "recomputed_rms_distance": 0.9786111873233365,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 1.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.6054931030987312,
+    "high_precision_ell_squared": "0.6054931030987311111111111111111111111111111111111111111111111111111111",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 1.392351481028642,
+    "recomputed_rms_distance": 1.392351481028642,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 1.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.6511828454380947,
+    "high_precision_ell_squared": "0.6511828454380947222222222222222222222222222222222222222222222222222222",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 1.3669940290029687,
+    "recomputed_rms_distance": 1.3669940290029687,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      3
+    ],
+    "radius": 1.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.7309178437485679,
+    "high_precision_ell_squared": "0.7309178437485678177777777777777777777777777777777777777777777777777778",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 1.4752116860912368,
+    "recomputed_rms_distance": 1.4752116860912368,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.25,
+    "method": "sobol",
+    "stored_ell_squared": 0.20877146654666578,
+    "high_precision_ell_squared": "0.208771466546665784",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.24982987613704027,
+    "recomputed_rms_distance": 0.24982987613704027,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.25,
+    "method": "cma_es",
+    "stored_ell_squared": 0.2051328001917596,
+    "high_precision_ell_squared": "0.205132800191759584",
+    "ell_absolute_discrepancy": 2.7755575615628914e-17,
+    "stored_rms_distance": 0.2457829518224785,
+    "recomputed_rms_distance": 0.2457829518224785,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.25,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.2065126665942445,
+    "high_precision_ell_squared": "0.206512666594244472",
+    "ell_absolute_discrepancy": 2.7755575615628914e-17,
+    "stored_rms_distance": 0.2259572306478334,
+    "recomputed_rms_distance": 0.2259572306478334,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.23195373555003262,
+    "high_precision_ell_squared": "0.231953735550032576",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.4911567585678612,
+    "recomputed_rms_distance": 0.4911567585678612,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.22862467421274912,
+    "high_precision_ell_squared": "0.228624674212749108",
+    "ell_absolute_discrepancy": 2.7755575615628914e-17,
+    "stored_rms_distance": 0.5000000000000007,
+    "recomputed_rms_distance": 0.5000000000000007,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 0.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.2344655027928405,
+    "high_precision_ell_squared": "0.234465502792840468",
+    "ell_absolute_discrepancy": 2.7755575615628914e-17,
+    "stored_rms_distance": 0.4592202769703842,
+    "recomputed_rms_distance": 0.4592202769703842,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 1.0,
+    "method": "sobol",
+    "stored_ell_squared": 0.2792750038086896,
+    "high_precision_ell_squared": "0.27927500380868956",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.9738301620949752,
+    "recomputed_rms_distance": 0.9738301620949752,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 1.0,
+    "method": "cma_es",
+    "stored_ell_squared": 0.296582737087279,
+    "high_precision_ell_squared": "0.296582737087278972",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.9371401581721891,
+    "recomputed_rms_distance": 0.9371401581721891,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 1.0,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.29770980902011746,
+    "high_precision_ell_squared": "0.297709809020117432",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.9569672195381346,
+    "recomputed_rms_distance": 0.9569672195381346,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 1.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.42911591294059187,
+    "high_precision_ell_squared": "0.4291159129405918",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 1.4772747490908695,
+    "recomputed_rms_distance": 1.4772747490908695,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 1.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.47037912849758134,
+    "high_precision_ell_squared": "0.47037912849758136",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 1.4999999999999991,
+    "recomputed_rms_distance": 1.4999999999999991,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      5
+    ],
+    "radius": 1.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.44445468966032825,
+    "high_precision_ell_squared": "0.4444546896603282",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 1.4679712718028006,
+    "recomputed_rms_distance": 1.4679712718028006,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.25,
+    "method": "sobol",
+    "stored_ell_squared": 0.5232437914281608,
+    "high_precision_ell_squared": "0.5232437914281608",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.2375887643534288,
+    "recomputed_rms_distance": 0.2375887643534288,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.25,
+    "method": "cma_es",
+    "stored_ell_squared": 0.5247401999526782,
+    "high_precision_ell_squared": "0.524740199952678175",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.2499999999999995,
+    "recomputed_rms_distance": 0.2499999999999995,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.25,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.517508722480419,
+    "high_precision_ell_squared": "0.517508722480419025",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.23534490389676285,
+    "recomputed_rms_distance": 0.23534490389676285,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.5799211841583061,
+    "high_precision_ell_squared": "0.579921184158306075",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.4723873799263295,
+    "recomputed_rms_distance": 0.4723873799263295,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.5961995220976101,
+    "high_precision_ell_squared": "0.596199522097610075",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.4999999999999993,
+    "recomputed_rms_distance": 0.4999999999999993,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 0.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.5918101448340599,
+    "high_precision_ell_squared": "0.5918101448340599",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.4564288463818834,
+    "recomputed_rms_distance": 0.4564288463818834,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 1.0,
+    "method": "sobol",
+    "stored_ell_squared": 0.7852974740297404,
+    "high_precision_ell_squared": "0.78529747402974036",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.997265902213613,
+    "recomputed_rms_distance": 0.997265902213613,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 1.0,
+    "method": "cma_es",
+    "stored_ell_squared": 0.8341217791518132,
+    "high_precision_ell_squared": "0.8341217791518132",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 1.0000000000000002,
+    "recomputed_rms_distance": 1.0000000000000002,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 1.0,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.7991381444186929,
+    "high_precision_ell_squared": "0.7991381444186929",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.9802132837293844,
+    "recomputed_rms_distance": 0.9802132837293844,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 1.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.8660326740015869,
+    "high_precision_ell_squared": "0.866032674001586875",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 1.4833951109187755,
+    "recomputed_rms_distance": 1.4833951109187755,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 1.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.8690622455203525,
+    "high_precision_ell_squared": "0.8690622455203526049999999999999999999999999999999999999999999999999999",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 1.4999999999999996,
+    "recomputed_rms_distance": 1.4999999999999996,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      2
+    ],
+    "radius": 1.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.8274840789288056,
+    "high_precision_ell_squared": "0.8274840789288056",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 1.3381896830567401,
+    "recomputed_rms_distance": 1.3381896830567401,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.25,
+    "method": "sobol",
+    "stored_ell_squared": 0.3431878362885943,
+    "high_precision_ell_squared": "0.3431878362885943333333333333333333333333333333333333333333333333333333",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.23296784076178548,
+    "recomputed_rms_distance": 0.23296784076178548,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.25,
+    "method": "cma_es",
+    "stored_ell_squared": 0.35169249126552404,
+    "high_precision_ell_squared": "0.3516924912655241",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.24999999999999972,
+    "recomputed_rms_distance": 0.24999999999999972,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.25,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.35307398106338234,
+    "high_precision_ell_squared": "0.3530739810633823777777777777777777777777777777777777777777777777777778",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.24047587009537824,
+    "recomputed_rms_distance": 0.24047587009537824,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.37970170883801047,
+    "high_precision_ell_squared": "0.3797017088380105555555555555555555555555555555555555555555555555555555",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 0.45298230159546576,
+    "recomputed_rms_distance": 0.45298230159546576,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.39540675532273506,
+    "high_precision_ell_squared": "0.3954067553227351",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.4999999999999997,
+    "recomputed_rms_distance": 0.4999999999999997,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 0.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.4002016370066507,
+    "high_precision_ell_squared": "0.4002016370066507111111111111111111111111111111111111111111111111111111",
+    "ell_absolute_discrepancy": 5.551115123125783e-17,
+    "stored_rms_distance": 0.4560348738731766,
+    "recomputed_rms_distance": 0.4560348738731766,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 1.0,
+    "method": "sobol",
+    "stored_ell_squared": 0.5188210692886382,
+    "high_precision_ell_squared": "0.5188210692886383111111111111111111111111111111111111111111111111111111",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 0.9812695364330369,
+    "recomputed_rms_distance": 0.9812695364330369,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 1.0,
+    "method": "cma_es",
+    "stored_ell_squared": 0.581627522894676,
+    "high_precision_ell_squared": "0.5816275228946761222222222222222222222222222222222222222222222222222222",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 0.9999999999999992,
+    "recomputed_rms_distance": 0.9999999999999992,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 1.0,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.5595956878111676,
+    "high_precision_ell_squared": "0.5595956878111676666666666666666666666666666666666666666666666666666667",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.9925442679573707,
+    "recomputed_rms_distance": 0.9925442679573707,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 1.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.6770019944835164,
+    "high_precision_ell_squared": "0.6770019944835165111111111111111111111111111111111111111111111111111111",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 1.4634070649732758,
+    "recomputed_rms_distance": 1.4634070649732758,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 1.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.7155885021655495,
+    "high_precision_ell_squared": "0.7155885021655494777777777777777777777777777777777777777777777777777778",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 1.4999999999999976,
+    "recomputed_rms_distance": 1.4999999999999976,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      1,
+      3
+    ],
+    "radius": 1.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.7777295001565545,
+    "high_precision_ell_squared": "0.7777295001565546777777777777777777777777777777777777777777777777777778",
+    "ell_absolute_discrepancy": 2.220446049250313e-16,
+    "stored_rms_distance": 1.4436403086308867,
+    "recomputed_rms_distance": 1.4436403086308867,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.25,
+    "method": "sobol",
+    "stored_ell_squared": 0.5033789429831681,
+    "high_precision_ell_squared": "0.5033789429831681",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.19775556996426644,
+    "recomputed_rms_distance": 0.19775556996426644,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.25,
+    "method": "cma_es",
+    "stored_ell_squared": 0.5074641176369635,
+    "high_precision_ell_squared": "0.507464117636963525",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.2500000000000012,
+    "recomputed_rms_distance": 0.2500000000000012,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.25,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.5050145558738134,
+    "high_precision_ell_squared": "0.505014555873813375",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.21803269839376463,
+    "recomputed_rms_distance": 0.21803269839376463,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.5272936094340929,
+    "high_precision_ell_squared": "0.527293609434092875",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.453891674039794,
+    "recomputed_rms_distance": 0.453891674039794,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.5436138052572166,
+    "high_precision_ell_squared": "0.543613805257216575",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.5,
+    "recomputed_rms_distance": 0.5,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 0.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.5691734797513854,
+    "high_precision_ell_squared": "0.569173479751385425",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.48383397615265805,
+    "recomputed_rms_distance": 0.48383397615265805,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 1.0,
+    "method": "sobol",
+    "stored_ell_squared": 0.6220251179618511,
+    "high_precision_ell_squared": "0.622025117961851125",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.9799050418274683,
+    "recomputed_rms_distance": 0.9799050418274683,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 1.0,
+    "method": "cma_es",
+    "stored_ell_squared": 0.6370909454639978,
+    "high_precision_ell_squared": "0.6370909454639978",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 1.0000000000000004,
+    "recomputed_rms_distance": 1.0000000000000004,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 1.0,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.6338323496112986,
+    "high_precision_ell_squared": "0.63383234961129865",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 0.9844722093707508,
+    "recomputed_rms_distance": 0.9844722093707508,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 1.5,
+    "method": "sobol",
+    "stored_ell_squared": 0.6910338559724944,
+    "high_precision_ell_squared": "0.69103385597249445",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 1.3926271710053153,
+    "recomputed_rms_distance": 1.3926271710053153,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 1.5,
+    "method": "cma_es",
+    "stored_ell_squared": 0.6814475922268908,
+    "high_precision_ell_squared": "0.68144759222689088",
+    "ell_absolute_discrepancy": 1.1102230246251565e-16,
+    "stored_rms_distance": 1.5000000000000036,
+    "recomputed_rms_distance": 1.5000000000000036,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  },
+  {
+    "polarization_type": [
+      1,
+      2,
+      2
+    ],
+    "radius": 1.5,
+    "method": "bayesian_ucb",
+    "stored_ell_squared": 0.7354146349642461,
+    "high_precision_ell_squared": "0.735414634964246045",
+    "ell_absolute_discrepancy": 0.0,
+    "stored_rms_distance": 1.3810363395041116,
+    "recomputed_rms_distance": 1.3810363395041116,
+    "distance_absolute_discrepancy": 0.0,
+    "within_preregistered_ball": true
+  }
+]

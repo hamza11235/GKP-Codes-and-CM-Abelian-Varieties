@@ -1,0 +1,25 @@
+{
+  "protocol_version": "phase7-v1-equal-geodesic-distance",
+  "distance": "RMS affine-invariant SPD distance: ||log(G0^-1/2 G1 G0^-1/2)||_F / sqrt(2g)",
+  "radii": [
+    {
+      "name": "near",
+      "target_rms_geodesic_distance": 0.02
+    },
+    {
+      "name": "far",
+      "target_rms_geodesic_distance": 0.1
+    }
+  ],
+  "samples_per_candidate": 3,
+  "steps_per_direction": 4,
+  "vector_bound": 2,
+  "weight_denominator": 10000,
+  "direction_seed": "SHA256(protocol_version|candidate_id|direction)",
+  "same_directions_at_both_radii": true,
+  "adaptive_resampling": false,
+  "root_tolerance": 2e-11,
+  "primary_response": "candidate-level mean(control ell^2) - CM ell^2",
+  "gate_audit": false,
+  "control_status": "generic-real equal-distance controls; individual endomorphism rings not certified"
+}
